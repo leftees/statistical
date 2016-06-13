@@ -78,3 +78,5 @@ Style/UnneededPercentQ:
 # I'm fine with either
 Style/RedundantReturn:
   Enabled: false
+  
+  # comment to test
